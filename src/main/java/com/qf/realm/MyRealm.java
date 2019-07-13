@@ -18,7 +18,7 @@ public class MyRealm extends AuthorizingRealm {
 
 
     /**
-     * 授权
+     * 授权lianx
      * @param principalCollection
      * @return
      */
